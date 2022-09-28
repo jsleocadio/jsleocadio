@@ -17,6 +17,5 @@
 -->
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/jsleocadio/jsleocadio/blob/main/matrix-code.gif">
+  <img top="1000" height="1000" width="1000" alt="GIF" src="https://github.com/jsleocadio/jsleocadio/blob/main/matrix-code.gif">
 </a>
-<img src="https://github.com/jsleocadio/jsleocadio/blob/main/matrix-code.gif">
