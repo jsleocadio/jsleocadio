@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Intern on Tribunal Regional Eleitoral
+- 🔭 I’m currently a Intern on Tribunal Regional Eleitoral from Rio Grande do Norte
 - 🌱 I’m currently learning Signal Processing and Machine Learning
 - 📫 How to reach me: jeffersonkakashi@gmail.com
 <!--
