@@ -18,3 +18,9 @@
 - 🔭 I’m currently an Intern on Tribunal Regional Eleitoral do Rio Grande do Norte<br>
 - 🌱 I’m currently learning Signal Processing and Machine Learning<br>
 - 📫 How to reach me: jeffersonkakashi@gmail.com<br>
+
+<div align="center">
+  <a href="https://github.com/jsleocadio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsleocadio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsleocadio&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
