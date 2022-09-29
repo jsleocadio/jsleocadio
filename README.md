@@ -24,4 +24,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsleocadio&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsleocadio&show_icons=true&theme=github_dark)](https://github.com/jsleocadio/github-readme-stats)
