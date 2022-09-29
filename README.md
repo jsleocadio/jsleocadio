@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 - 🔭 I’m currently an Intern on Tribunal Regional Eleitoral from Rio Grande do Norte
 - 🌱 I’m currently learning Signal Processing and Machine Learning
 - 📫 How to reach me: jeffersonkakashi@gmail.com
