@@ -14,8 +14,8 @@
 
 ### Hi, Jefferson here! 
 
-- 🔭 I’m currently an Intern on Tribunal Regional Eleitoral do Rio Grande do Norte<br>
-- 🌱 I’m currently learning Signal Processing and Machine Learning<br>
+- 🔭 I’m currently a Data Engineer on Gruppy<br>
+<!-- - 🌱 I’m currently learning Signal Processing and Machine Learning<br> -->
 - 📫 How to reach me: jeffersonkakashi@gmail.com<br>
 
 <div align="center">
